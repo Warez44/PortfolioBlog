@@ -1,2 +1,0 @@
-# PortfolioBlog
-Created with CodeSandbox
